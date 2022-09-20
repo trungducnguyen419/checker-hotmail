@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\bin\Debug\Checker Hotmail.exe.config
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\bin\Debug\Checker Hotmail.exe
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\bin\Debug\Checker Hotmail.pdb
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker_Hotmail.fMain.resources
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker_Hotmail.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.exe
+C:\Users\Administrator\source\repos\Checker Hotmail\Checker Hotmail\obj\Debug\Checker Hotmail.pdb
